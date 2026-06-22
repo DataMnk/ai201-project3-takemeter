@@ -129,3 +129,6 @@ The "read 30-40 posts before locking in your labels" advice from the spec was ac
 - `evaluation_results.json` — final accuracy numbers for both models
 - `confusion_matrix.png` — confusion matrix for the fine-tuned model
 - `README.md` — this file
+
+##Video
+https://www.loom.com/share/41701cac019f454cac120e8ca849a9e3
